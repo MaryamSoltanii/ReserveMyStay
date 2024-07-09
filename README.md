@@ -1,5 +1,6 @@
 # ReserveMyStay
-An application for hotel reservations, developed in Java, featuring user registration, room booking, and payment processing.
+A comprehensive hotel reservation system using Java to manage bookings, cancellations, and customer information.
+
 ## Features
 - **Room Booking**: Users can book rooms based on availability.
 - **Customer Management**: Stores and manages customer information.
