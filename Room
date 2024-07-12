@@ -1,0 +1,25 @@
+package com.example.reservemystay;
+
+public class Room {
+
+    private int roomNumber;
+    private String type;
+    private boolean isAvailable;
+
+    // constructor
+    public Room(int roomNumber, String type, boolean isAvailable) {
+        this.roomNumber = roomNumber;
+        this.type = type;
+        this.isAvailable = isAvailable;
+
+    }
+    public int getRoomNumber(){
+        return roomNumber;
+    }
+    public String getType(){
+        return type;
+    }
+    public boolean getIsAvailable(){
+        return true;
+    }
+}
