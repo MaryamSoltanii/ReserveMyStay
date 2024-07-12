@@ -1,0 +1,15 @@
+package com.example.hotel;
+
+import com.example.reservemystay.Room;
+
+public class main {
+    public static void main(String[] args) {
+        Room1 room1 = new Room("1", "Singel", "true");
+        Room2 room2 = new Room("2", "Double", "true");
+        Romm3 romm3 = new Room("3", "Singel", "true");
+
+        System.out.println("Number of Room: " + room1.getRoomNumber());
+
+
+    }
+}
